@@ -1,0 +1,82 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+:root{
+  font-family: "Open Sans", sans-serif;
+  line-height: 150%;
+}
+
+#page{
+  box-sizing: border-box;
+  margin: 88px auto 65px;
+  max-width: 1050px;
+  
+}
+
+body{
+  background: color #F5F4F0;
+  
+}
+
+img{
+  border-radius: 28px;
+}
+#title{
+  color:#e1624f ;
+}
+header h1{
+  padding-bottom: 40px;
+  font-size: 40px;
+}
+
+#destiny h1{
+  padding:  2px 0 8px 0;
+}
+#description{
+  text-align: center;
+  font-size: 16px;
+}
+
+#local{
+  padding-bottom: 20px;
+}
+
+#vantagens{
+  font-weight: bold;
+  padding-top: 10px;
+  font-size: 16px;
+}
+#classes-historia{
+  color:#0C51A7;
+  margin-left: 20px;
+}
+#classes{
+  margin-left: 20px;
+}
+.double{
+  color: #591B98;
+}
+.family{
+  color: #E5245E;
+}
+.money{
+ color:#E95E10 ;
+}
+
+#busan img{
+  padding-bottom: 24px;
+}
+
+section{
+  margin-bottom: 48px;
+ 
+}
+
+footer{ 
+  text-align: center;
+}
+
+footer img{
+  vertical-align: middle;
+}
